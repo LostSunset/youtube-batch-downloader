@@ -1,6 +1,6 @@
 # YouTube Playlist Downloader Tool
 # YouTube 批量下載工具 & 播放清單擷取工具  
-[🇹🇼 繁體中文](README_ZH.md) | [English](README_EN.md)
+[🇹🇼 繁體中文](docs/README_ZH.md) | [English](docs/README_EN.md)
 
 這是一個用於下載 YouTube 播放清單的工具集，包含兩個主要程式：
 1. 播放清單網址擷取工具
