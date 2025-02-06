@@ -32,7 +32,7 @@
 
 1. 克隆倉庫：
 ```bash
-git clone https://github.com/your-username/youtube-playlist-downloader.git
+git clone https://github.com/LostSunset/youtube-playlist-downloader.git
 cd youtube-playlist-downloader
 ```
 
