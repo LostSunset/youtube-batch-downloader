@@ -2,6 +2,17 @@
 # YouTube 批量下載工具 & 播放清單擷取工具  
 [🇹🇼 繁體中文](docs/README_ZH.md) | [English](docs/README_EN.md)
 
+![License](https://img.shields.io/github/license/LostSunset/youtube-playlist-downloader)
+![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
+![Last Commit](https://img.shields.io/github/last-commit/LostSunset/youtube-playlist-downloader)
+
+## 更新日誌
+
+### v1.0.0 (2024-02-06)
+- 初始發布
+- 實現基本功能
+- 新增使用說明文檔
+
 這是一個用於下載 YouTube 播放清單的工具集，包含兩個主要程式：
 1. 播放清單網址擷取工具
 2. 批量影片下載工具
@@ -106,9 +117,9 @@ A: 請在 GitHub Issues 頁面提交問題，並提供以下資訊：
 
 本專案採用 MIT 授權條款 - 詳見 [LICENSE](LICENSE) 檔案
 
-## 更新日誌
 
-### v1.0.0 (2024-02-06)
-- 初始發布
-- 實現基本功能
-- 新增使用說明文檔
+## 🌟 Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=your-username/youtube-playlist-downloader&type=Date)](https://star-history.com/#your-username/youtube-playlist-downloader)
+
+## 💹 訪問統計
+![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
