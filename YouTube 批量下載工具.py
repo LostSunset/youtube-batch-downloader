@@ -8,14 +8,14 @@ class YouTubeDownloader:
     def __init__(self):
         self.window = tk.Tk()
         self.window.title("YouTube 批量下載工具")
-        self.window.geometry("600x400")
+        self.window.geometry("1200x800")
         
         # 設定視窗置中
         screen_width = self.window.winfo_screenwidth()
         screen_height = self.window.winfo_screenheight()
-        x = (screen_width - 600) // 2
-        y = (screen_height - 400) // 2
-        self.window.geometry(f"600x400+{x}+{y}")
+        x = (screen_width - 1200) // 2
+        y = (screen_height - 800) // 2
+        self.window.geometry(f"1200x800+{x}+{y}")
         
         # 建立下載路徑選擇按鈕
         self.path_button = tk.Button(
@@ -65,8 +65,8 @@ class YouTubeDownloader:
         # 建立進度顯示文字框
         self.progress_text = tk.Text(
             self.window,
-            height=12,
-            width=50,
+            height=30,
+            width=150,
             font=("Consolas", 10)
         )
         self.progress_text.pack(pady=10, padx=20)
