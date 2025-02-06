@@ -119,7 +119,8 @@ A: 請在 GitHub Issues 頁面提交問題，並提供以下資訊：
 
 
 ## 🌟 Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=LostSunset/youtube-playlist-downloader&type=Date)](https://star-history.com/#LostSunset/youtube-playlist-downloader&Date)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=LostSunset/youtube-batch-downloader&type=Date)](https://star-history.com/#LostSunset/youtube-batch-downloader&Date)
 
 ## 💹 訪問統計
 ![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
