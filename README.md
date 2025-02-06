@@ -6,6 +6,8 @@
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/LostSunset/youtube-playlist-downloader)
 
+
+
 ## 更新日誌
 
 ### v1.0.0 (2024-02-06)
@@ -13,11 +15,12 @@
 - 實現基本功能
 - 新增使用說明文檔
 
+
+## 功能特點
+
 這是一個用於下載 YouTube 播放清單的工具集，包含兩個主要程式：
 1. 播放清單網址擷取工具
 2. 批量影片下載工具
-
-## 功能特點
 
 ### 播放清單網址擷取工具 (playlist_extractor.py)
 - 提供簡潔的圖形介面
